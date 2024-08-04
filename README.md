@@ -17,9 +17,10 @@
 🔚 42 SEOUL 8th Cadet <br>
 🔚 Head of IT department of the SeoulTech Total Student Council <br>
 🔚 Backend Developer of the SeoulTech Total Student Council App  <br>
-💡 Google Developer Student Clubs Seoultech Member <br>
-💡 Private AI & Information Security Lab Research Student <br>
+🔚 Google Developer Student Clubs Seoultech 3rd Member <br>
+🔚 Private AI & Information Security Lab Research Student <br>
 💡 ITM Club "Algorithm Panda" President <br>
+💡 Google Developer Student Clubs Seoultech 4th Core <br>
 
 ***
 
